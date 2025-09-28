@@ -1,2 +1,4 @@
 #Example for my first repo
-Hello World, this is my second file
+Hello coders, this is my second file
+
+This is the second change
